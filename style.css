@@ -1,0 +1,32 @@
+body {
+    background-color: rgba(211, 211, 211, 0.856);
+}
+h2 {
+    color: rgb(50, 129, 233);
+    text-emphasis: bold;
+}
+
+p {
+    margin-left: 5px;
+    margin-right: 5px;
+}
+a {
+    color: rgb(50, 129, 233);
+}
+
+hr {
+    background: darkgrey;
+    height: 2px;
+}
+
+.navbar-brand {
+    background-color: #0ba6c2;
+    padding: 30px;
+    margin: -5px 5px;
+    font-weight: bold;
+    color: white;
+}
+
+#picture {
+    margin-right: 15px;
+}
