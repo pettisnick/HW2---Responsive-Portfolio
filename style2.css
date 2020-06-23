@@ -1,8 +1,23 @@
+body {
+    font-family: sans-serif;
+   
+}
+h4 {
+    color: #0ba6c2;
+    text-emphasis: bold;
+    font-family: sans-serif;
+}
+
 hr {
     background: darkgrey;
     height: 2px;
 }
 
+form {
+    background-color: white;
+    text-emphasis: bold;
+}
 .form-group {
     font-family: sans-serif;
 }
+

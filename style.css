@@ -2,8 +2,16 @@ body {
     background-color: rgba(211, 211, 211, 0.856);
 }
 
+navbar-brand {
+    background-color: #0ba6c2;
+    padding: 30px;
+    margin: -5px 5px;
+    font-weight: bold;
+    color: white;
+}
+
 h2 {
-    color: rgb(50, 129, 233);
+    color: #0ba6c2;
     text-emphasis: bold;
 }
 
@@ -41,4 +49,5 @@ hr {
 #picture {
     margin-right: 15px;
 }
+
 

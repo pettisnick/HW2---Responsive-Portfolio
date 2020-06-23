@@ -24,12 +24,28 @@
     
 }
 
-.navbar-brand {
-    background-color: #0ba6c2;
-    
-}
-
 .li {
     text-align: right;
 }
 
+.img-responsive {
+    padding: 0px;
+    display: block;
+    margin: auto;
+    max-height: 100%;
+    max-width: 100%;
+}
+
+.card-body {
+    color: #0ba6c2;
+    text-emphasis: bold;
+
+}
+
+.nav-item {
+    color: white;
+}
+
+.navbar-brand {
+    color: white;
+}
