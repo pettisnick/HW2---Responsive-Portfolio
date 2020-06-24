@@ -1,4 +1,28 @@
-.caption {
+body {
+    background-color: rgb(209, 205, 209);
+}
+
+.container {
+    margin-top: 3%;
+}
+
+.navbar-brand {
+    background-color: #0ba6c2;
+    padding: 20px !important;
+    margin-left: 5% !important;
+}
+
+.navbar {
+    padding: 0px !important;
+    border-bottom: 5px solid grey;
+}
+
+.name {
+    font-size: 25px !important;
+    font-weight: 700;
+    color: white !important;
+
+caption {
     width:100%;
     bottom: .3rem;
     position: absolute;
