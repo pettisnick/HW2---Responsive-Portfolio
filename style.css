@@ -1,18 +1,62 @@
 body {
-    background-color: rgba(211, 211, 211, 0.856);
+    background-color: rgb(209, 205, 209);
 }
 
-navbar-brand {
+.container {
+    margin-top: 3%;
+}
+
+.navbar-brand {
     background-color: #0ba6c2;
-    padding: 30px;
-    margin: -5px 5px;
-    font-weight: bold;
+    padding: 20px !important;
+    margin-left: 5% !important;
+}
+
+.navbar {
+    padding: 0px !important;
+    border-bottom: 5px solid grey;
+}
+
+.name {
+    font-size: 25px !important;
+    font-weight: 700;
+    color: white !important;
+}
+
+.text-container {
+    font-size: 21px;
+    width: 100%;
+    margin: 40% auto;
+    padding: 20px;
+    text-align: center;
+    background-color: #0ba6c2;
     color: white;
 }
 
 h2 {
     color: #0ba6c2;
     text-emphasis: bold;
+    font-size: 28px;
+}
+
+footer {
+    position: absolute;
+    bottom: 0;
+    background-color: grey;
+    width: 100%;
+    height: 80px;
+    text-align: center;
+}
+
+.footerBorder {
+    border-width: 10px !important;
+    border-color: #0ba6c2 !important;
+}
+
+i {
+    padding: 20px;
+    color: white;
+    font-weight: 200 !important;
 }
 
 p {
@@ -26,24 +70,6 @@ a {
 hr {
     background: darkgrey;
     height: 2px;
-}
-
-.navbar-brand {
-    background-color: #0ba6c2;
-    padding: 30px;
-    margin: -5px 5px;
-    font-weight: bold;
-    color: white;
-}
-
-.navbar-nav {
-    float: none;
-    text-align: center;
-}
-
-.navbar-nav li {
-    display: inline-block;
-    float: none;
 }
 
 #picture {
